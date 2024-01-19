@@ -1,0 +1,15 @@
+C:\Users\Rosin\source\repos\TextWorder\TextWorder\bin\Debug\TextWorder.exe.config
+C:\Users\Rosin\source\repos\TextWorder\TextWorder\bin\Debug\TextWorder.exe
+C:\Users\Rosin\source\repos\TextWorder\TextWorder\bin\Debug\TextWorder.pdb
+C:\Users\Rosin\source\repos\TextWorder\TextWorder\obj\Debug\TextWorder.csproj.AssemblyReference.cache
+C:\Users\Rosin\source\repos\TextWorder\TextWorder\obj\Debug\MainWindow.g.cs
+C:\Users\Rosin\source\repos\TextWorder\TextWorder\obj\Debug\App.g.cs
+C:\Users\Rosin\source\repos\TextWorder\TextWorder\obj\Debug\TextWorder_MarkupCompile.cache
+C:\Users\Rosin\source\repos\TextWorder\TextWorder\obj\Debug\TextWorder_MarkupCompile.lref
+C:\Users\Rosin\source\repos\TextWorder\TextWorder\obj\Debug\MainWindow.baml
+C:\Users\Rosin\source\repos\TextWorder\TextWorder\obj\Debug\TextWorder.g.resources
+C:\Users\Rosin\source\repos\TextWorder\TextWorder\obj\Debug\TextWorder.Properties.Resources.resources
+C:\Users\Rosin\source\repos\TextWorder\TextWorder\obj\Debug\TextWorder.csproj.GenerateResource.cache
+C:\Users\Rosin\source\repos\TextWorder\TextWorder\obj\Debug\TextWorder.csproj.CoreCompileInputs.cache
+C:\Users\Rosin\source\repos\TextWorder\TextWorder\obj\Debug\TextWorder.exe
+C:\Users\Rosin\source\repos\TextWorder\TextWorder\obj\Debug\TextWorder.pdb

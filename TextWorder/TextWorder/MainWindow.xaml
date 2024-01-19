@@ -1,0 +1,34 @@
+﻿<Window x:Class="TextWorder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextWorder"
+        mc:Ignorable="d"
+        Title="WPF Text Editor | Gadzhimuslimov" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_New" Command="ApplicationCommands.New"/>
+                <MenuItem Header="_Open" Command="ApplicationCommands.Open"/>
+                <MenuItem Header="_Save" Command="ApplicationCommands.Save"/>
+                <Separator/>
+                <MenuItem Header="_Exit" Command="ApplicationCommands.Close"/>
+            </MenuItem>
+
+            <MenuItem Header="_Edit">
+                <MenuItem Header="_Underline" Click="MakeTextUnderlined"/>
+                    
+                    
+            </MenuItem>
+            <MenuItem Header="_View"/>
+            <MenuItem Header="_Help"/>
+        </Menu>
+        <RichTextBox x:Name="richTextBox" Grid.Row="1" Margin="10"/>
+    </Grid>
+</Window>
